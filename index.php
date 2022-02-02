@@ -138,10 +138,15 @@ if(isset($_POST['submit'])) {
                    <button class="btn btn-outline-success btn-block" name="submit" type="submit" style="margin-top: 16px">Login</button>
                    
                    <p style="margin-top: 16px;">For All Hospital Departments! <a href="">Pharmacy System here</a></p>
+
+                   <div style="margin-top: 100px;" class="ml-4">
+                     <p>Developed By Josiah Mpokera <a href="https://josiahmpokera.github.io/Joh19/">Potifolio</a></p>
+                    </div>
+           
                </form>
                
            </div>
-           
+
            <div class="col">
                
            </div>
